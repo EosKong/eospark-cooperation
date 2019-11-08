@@ -497,5 +497,17 @@
       "link":"http://blocks.name/?inviter=supereospark",
       "description":"出售账户,竞拍账户,注册短账户,请求账户"
     }
+  },
+  {
+    "gaTag": "eos_kong",
+    "categoriy": "game",
+    "link": "https://eoskong.io",
+    "logo": "eoskong_logo.png",
+    "preview": "eoskong.png",
+    "title": "EosKong",
+    "description": "Provably fair EOS game.",
+    "zh-Hans-CN": {
+        "description": "可證明的公平EOS遊戲"
+    }
   }
 ]
